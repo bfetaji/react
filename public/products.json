@@ -1,0 +1,39 @@
+{
+  "products": [{
+      "id": "1",
+      "name": "Superior",
+      "image": "images/Superior.png",
+      "price": "$59.99",
+      "colors": ["red", "green", "blue"],
+      "condition": "Available",
+      "description": "Superior rooms, excellent"
+    },
+    {
+      "id": "2",
+      "name": "Delux",
+      "image": "images/Delux.png",
+      "price": "$40.49",
+      "colors": ["green", "blue"],
+      "condition": "Not Available",
+      "description": "Delux rooms, great for first time visit"
+    },
+    {
+      "id": "3",
+      "name": "JuniorSuite",
+      "image": "images/JuniorSuite.png",
+      "price": "$30.00",
+      "colors": ["red"],
+      "condition": "Available",
+      "description": "Junior rooms, new fresh looking with excelent view"
+    },
+    {
+      "id": "4",
+      "name": "Apartments",
+      "image": "images/Apartments.png",
+      "price": "$20.49",
+      "colors": ["blue"],
+      "condition": "Not available",
+      "description": "Apartmants, studio and large villa aprtment"
+    }
+  ]
+}
